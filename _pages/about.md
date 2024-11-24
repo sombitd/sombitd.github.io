@@ -8,12 +8,45 @@ redirect_from:
   - /about.html
 ---
 
-Hello !!  I am First-Year Ph.D student as INSAIT, Sofia, Bulgaria advised by Prof. Luc van gool and Prof. Danda Paudel.
-I attained my Masters in Robotics,Systems and Control system from ETH-Zurich, with thesis on 3D visual Grounding at CVL lab, ETH
-During my Undergraduate studies at IIT-Kharagpur, B.Tech in ECE + CS, I spent most of my time at AVG lab, working on robot-localization and slam. 
+## About Me :
+<!-- add href commmands to university, professors and labs  -->
+- First-Year Ph.D student as INSAIT.
+- Spend 2yrs in Zurich,CH, studying at ETH-Zurich,
+  -
+- Spend 4yrs in Kharagpur, IIT-Kharagpur, B.Tech in ECE + CS,
 
 
 I am passionate about robotics and deploying agents on robots.
+
+
+<!-- collapsable -->
+<!-- have two collapsable side by side -->
+<details>
+  <summary>Education</summary>
+  
+  - ### Ph.D student at INSAIT, Sofia, advised by Prof. Luc and Prof. Danda
+    - #### Robotic Foundational Models 
+      1. ReVLA [ Project] [ Arxiv ]
+    - ##### World Model 
+      1. Coming Sooon ......
+  - #### Masters in Robotics,Systems and Controls from ETH-Zurich.
+    >  Master Thesis on 3D Visual Grounding at CVL-LAB [More INFO] [ Videos ]
+
+    > Human action recognition and interpretation for Robot-Excavator control, RSL Lab [More Infor ] [ Videos ]
+  - #### B.Tech in ECE + CS, IIT-Kharagpur
+    >  I spent most of my time at AVG lab, working on robot-localization and slam. 
+
+    > Bacheler Thesis on Stochastic Stackelberg Games 
+</details>
+
+<details>
+  <summary>Other Interests</summary>
+  
+  - I love to play chess, kinda addicted.
+  - Member of Manchester United Cult, my mental health highly correlated.
+  - Love travelling to watch football games
+  
+</details>
 
 
 Getting started
