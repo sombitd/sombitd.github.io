@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Sombit Dey"
   avatar           : "profile.png"
-  bio              : "ECE UnderGrad @ IITKGP"
-  location         : "Kharagpur,India"
+  bio              : " Ph.D. Student, INSAIT"
+  location         : "Sofia, Bulgaria"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?user=PiBw69UAAAAJ&hl=en
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "Sombit Dey"
+  facebook         : 
   foursquare       :
   github           : "sombitd"
   google_plus      :

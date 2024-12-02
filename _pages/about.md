@@ -10,18 +10,17 @@ redirect_from:
 
 ## About Me :
 <!-- add href commmands to university, professors and labs  -->
-- First-Year Ph.D student as INSAIT.
-- Spend 2yrs in Zurich,CH, studying at ETH-Zurich,
-  -
-- Spend 4yrs in Kharagpur, IIT-Kharagpur, B.Tech in ECE + CS,
+- First-Year Ph.D student as INSAIT in Robotics and Computer Vision, working with Prof. Luc Van Gool and Prof. Danda. Completed my masters at ETH-Zurich in Robotics, Sytems and Controls at CVG lab ETH-Zurich. Did my undergraduate studies from IIT-KGP, working in the AGV lab with Prof. Debashish. 
+<!-- - Spend 2yrs in Zurich,CH, studying at ETH-Zurich, -->
+<!-- - Spend 6 months in Grenoble, France, interning at Naver Labs Europe -->
+<!-- - Spend 4yrs in Kharagpur, IIT-Kharagpur, B.Tech in ECE + CS, -->
 
 
-I am passionate about robotics and deploying agents on robots.
 
 
 <!-- collapsable -->
 <!-- have two collapsable side by side -->
-<details>
+<!-- <details>
   <summary>Education</summary>
   
   - ### Ph.D student at INSAIT, Sofia, advised by Prof. Luc and Prof. Danda
@@ -37,19 +36,19 @@ I am passionate about robotics and deploying agents on robots.
     >  I spent most of my time at AVG lab, working on robot-localization and slam. 
 
     > Bacheler Thesis on Stochastic Stackelberg Games 
-</details>
+</details> -->
 
-<details>
+<!-- <details>
   <summary>Other Interests</summary>
   
   - I love to play chess, kinda addicted.
   - Member of Manchester United Cult, my mental health highly correlated.
   - Love travelling to watch football games
-  
-</details>
+  -   
+</details> -->
 
 
-Getting started
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -80,4 +79,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
